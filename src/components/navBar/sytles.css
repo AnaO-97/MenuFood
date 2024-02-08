@@ -1,0 +1,12 @@
+.containerNarbar {
+    /* width: max-content; */
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: blue;
+}
+
+.containerNarbar h1{
+    padding-left: 100px;
+}
