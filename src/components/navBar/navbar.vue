@@ -1,5 +1,5 @@
 <script src="./script.js"> </script>
-<style  src="./sytles.css"></style>
+<style  src="./styles.css"></style>
 
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-warning fw-bold">

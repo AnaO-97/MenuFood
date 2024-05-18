@@ -1,6 +1,7 @@
 <!-- JAVA SCRIPT ----------------------------------------------------->
 <script setup>
     import navbar from "./components/navBar/navbar.vue"
+    import home from "./components/home/home.vue"
 
 </script>
 
@@ -9,7 +10,7 @@
     <navbar />
     
     <div class="containerHome">
-        
+        <home />
     </div>
 </template>
 
